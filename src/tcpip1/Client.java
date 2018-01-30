@@ -38,6 +38,7 @@ public class Client {
 			} catch (IOException e) {
 				// TODO Auto-generatedF catch block
 				e.printStackTrace();
+				
 			}
 
 		}
