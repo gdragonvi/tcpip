@@ -1,4 +1,4 @@
-package tcpip2;
+package client;
 
 public class Client {
 	int a = 10;

@@ -1,4 +1,4 @@
-package tcpip2;
+package server;
 
 public class Server {
 
