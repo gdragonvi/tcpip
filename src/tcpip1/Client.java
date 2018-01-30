@@ -36,7 +36,7 @@ public class Client {
 				outs.close();
 				socket.close();
 			} catch (IOException e) {
-				// TODO Auto-generatedF catch block
+				
 				e.printStackTrace();
 				
 			}
