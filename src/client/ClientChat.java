@@ -113,6 +113,7 @@ public class ClientChat {
 					msg = din.readUTF();
 					System.out.println("server:"+msg);
 				} catch (IOException e) {
+					
 					System.out.println("Exit Server User ...");
 					break;
 				}

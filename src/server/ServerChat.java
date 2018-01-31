@@ -116,7 +116,9 @@ public class ServerChat {
 					System.out.println("client:"+msg);
 					sendAllMsg(msg);
 				} catch (IOException e) {
+					int temp = list.size()-1;
 					System.out.println("Exit Client User ...");
+					System.out.println("접속자 수:"+temp);
 					break;				
 				}
 
