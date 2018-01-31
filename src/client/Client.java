@@ -8,5 +8,4 @@ public class Client {
 		ClientChat chat = null;
 		chat = new ClientChat(ip, port);
 	}
-
 }

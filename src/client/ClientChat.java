@@ -58,7 +58,6 @@ public class ClientChat {
 			t.start();
 		}
 		System.out.println("Exit Chatting...");
-		
 	}
 	
 	// Message Sender .....................................

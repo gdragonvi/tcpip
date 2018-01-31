@@ -6,5 +6,4 @@ public class Server {
 		ServerChat serverChat = null;
 		serverChat = new ServerChat(8888);
 	}
-
 }
